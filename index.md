@@ -6,9 +6,13 @@
 
 
 
+# Images Markdown
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+
+# Code formatting Markdown
 
 ```
 $ git init
@@ -22,3 +26,10 @@ $ git push
 $ git push --tags
 
 ```
+
+# Task List markdown
+
+- [x] Headers markdown
+- [x] Images markdown
+- [x] Code formatting markdown
+- [x] Task list markdown
